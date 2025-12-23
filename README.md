@@ -25,6 +25,10 @@ Install:
 
 > No separate Lua installation is required: Pandoc embeds a Lua runtime for filters.
 
+```bash
+sudo nala install -y pandoc php php-cli php-mbstring php-xml
+```
+
 ---
 
 ## Project layout
